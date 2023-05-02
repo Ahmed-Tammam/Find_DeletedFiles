@@ -5,7 +5,7 @@ This script searches for deleted files in the Windows Recycle Bin and moves them
 
 Requirements:
 
--The winreg module is required to access the Windows Registry.
+-The winreg module is required to access the Windows Registry. (pip install winreg)
 
 -The script must be run with administrative privileges to access the Recycle Bin directory.
 
