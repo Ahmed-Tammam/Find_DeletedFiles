@@ -1,4 +1,4 @@
-# Find_DeletedFiles
+
 Windows Recycle Bin Dump Script
 
 This script searches for deleted files in the Windows Recycle Bin and moves them to a specified dump directory. It uses the Windows Registry to locate the Recycle Bin directory and then iterates over all subdirectories to find deleted files. The dumped files are moved to a user-specified directory for further analysis
